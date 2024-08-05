@@ -1,4 +1,5 @@
-# sahilkhude-demo
-This is my first git repository
-Author-Sahil Khude
-<br>
+#include<stdio.h>
+int main()
+{
+printf("Hello World\n");
+}
